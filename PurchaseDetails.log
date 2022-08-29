@@ -1,0 +1,15 @@
+Line 158: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 224: Class MSFlexGridLib.MSFlexGrid of control Grid1 was not a loaded control class.
+Line 173: The property name _ExtentX in DTPicker1 is invalid.
+Line 174: The property name _ExtentY in DTPicker1 is invalid.
+Line 175: The property name _Version in DTPicker1 is invalid.
+Line 185: The property name Format in DTPicker1 is invalid.
+Line 186: The property name CurrentDate in DTPicker1 is invalid.
+Line 230: The property name _ExtentX in Grid1 is invalid.
+Line 231: The property name _ExtentY in Grid1 is invalid.
+Line 232: The property name _Version in Grid1 is invalid.
+Line 233: The property name Rows in Grid1 is invalid.
+Line 234: The property name Cols in Grid1 is invalid.
+Line 235: The property name FixedRows in Grid1 is invalid.
+Line 236: The property name FixedCols in Grid1 is invalid.
+Line 237: The property name BackColorBkg in Grid1 is invalid.
